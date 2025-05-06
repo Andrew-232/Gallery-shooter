@@ -23,3 +23,5 @@ Each destroyed target awards 10 points!
 You have 3 lives — don't get hit!
 
 Your high score is saved in your browser.
+
+**Play the Game**: [Planet Breaker on GitHub Pages](https://andrew-232.github.io/Gallery-shooter/)
