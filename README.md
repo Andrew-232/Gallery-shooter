@@ -1,7 +1,9 @@
 **Planet Breaker**
+
 Planet Breaker is a fun arcade-style shooter made with Phaser 3. Move your ship, shoot enemies, and survive as long as you can!
 
 **How to Play**
+
 Move: A (left), D (right)
 
 Shoot: Spacebar
@@ -9,6 +11,7 @@ Shoot: Spacebar
 Pause: Escape (ESC)
 
 **Game Info**
+
 Enemies get faster every second.
 
 More enemies spawn every 5 seconds (up to a limit).
